@@ -1,0 +1,44 @@
+div
+{ 
+    width: 400px;
+     margin-top: 200px; 
+     size: 5000px;
+     margin-left: 200px; 
+    }
+     h1{
+         color: #1775EE; 
+         font-size: 50px;
+         }
+          body{
+             background-color: #F0F2F5; 
+             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     } 
+     .log{ 
+        width: 210px; 
+        margin-left: 800px;
+         margin-top: -200px;
+          border:2px #F0F2F5;
+           background-color: white;
+            padding: 10px; 
+            border-radius: 10px;
+         } 
+         .signup{
+             border: radius 5px;
+             color: white; 
+             background-color:#1775EE; 
+             border-color: #1775EE; 
+             width: 207px;
+              height: 30px;
+             } 
+             .login{
+                 border-radius: 5px;
+                  color: white; 
+                  background-color: #42B72A; 
+                  border-color:#42B72A;
+                   height: 30px; 
+                }
+                input{
+                     height: 30px;
+                      width: 200px;
+                       border-radius: 5px;
+                     }

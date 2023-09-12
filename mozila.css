@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    padding-left: 320px;
+}
+.mozil{
+    margin-left: 250px;
+    height: 200px;
+    
+}
+div{
+    background-color: rgb(255, 157, 0);
+    border:5px solid;
+    border-width:5px;
+    border-color: black; 
+    margin-left: 300px;
+    margin-right:500px ;
+    
+}
+body{
+    background-color: blue;
+    border-top: 0px;
+    border-left: 20px;
+    border-right: 20px;
+    
+}
+.P{
+    padding-left: 10PX;
+  
+}

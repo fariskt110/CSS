@@ -1,0 +1,11 @@
+.button{
+    text-align: center;
+    cursor: pointer;
+    background-color: white;
+    color:black ;
+    transition-duration: 0.4s;
+}
+.button:hover{
+    background-color: green;
+    color: white;
+}
